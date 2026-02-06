@@ -1,11 +1,19 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1f2937,100:059669&text=Hello!%20%F0%9F%91%8B%20I'm%20Aditya%20Dwivedi&fontSize=36&fontColor=ffffff&animation=fadeIn"
-    alt="header"
-  />
-</p>
+<table>
+<tr>
+<td width="75%">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:1f2937,100:059669&text=Hello!%20%F0%9F%91%8B%20I'm%20Aditya%20Dwivedi&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/your_github_id?v=4"
+     width="140"
+     style="border-radius:50%" />
+
+</td>
+</tr>
+</table>
 
 ## 👨‍💻 About Me
 - Final-year Computer Science Engineering student  
