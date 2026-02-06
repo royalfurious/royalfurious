@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="banner.png.png" width="100%" alt="Hello! I am Aditya"/>
+  <img src="banner.png" width="100%" alt="Hello! I am Aditya"/>
 </div>
 
 <br/>
