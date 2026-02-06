@@ -1,21 +1,22 @@
 <table>
 <tr>
-<table>
-<tr>
 <td width="70%">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:243447,100:0f9d58&text=Hello!%20%F0%9F%91%8B%0AI%20am%20Aditya%20Dwivedi&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:243447,100:0f9d58&text=Hello!%20%F0%9F%91%8B%20I%20am%20Aditya%20Dwivedi&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
 </td>
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/avatar.png"
-     width="160"
-     style="border-radius:50%" />
+<img 
+  src="https://avatars.githubusercontent.com/royalfurious"
+  width="150"
+  style="border-radius:50%" 
+/>
 
 </td>
 </tr>
 </table>
+
 ## 👨‍💻 About Me
 - Final-year Computer Science Engineering student  
 - Focused on building real-world web applications  
