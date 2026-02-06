@@ -1,9 +1,11 @@
-<div align="center">
-  <h1>👋 Hello, I'm Aditya Dwivedi</h1>
-  <p><b>Final-year Computer Science Engineering student</b></p>
-</div>
+<!-- HERO BANNER -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1f2937,100:059669&text=Hello!%20%F0%9F%91%8B%20I'm%20Aditya%20Dwivedi&fontSize=36&fontColor=ffffff&animation=fadeIn"
+    alt="header"
+  />
+</p>
 
-<hr/>
 
 ## 👨‍💻 About Me
 - Final-year Computer Science Engineering student  
