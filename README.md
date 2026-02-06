@@ -2,7 +2,7 @@
 <tr>
 <td width="75%">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:1f2937,100:059669&text=Hello!%20%F0%9F%91%8B%20I'm%20Aditya%20Dwivedi&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=1f2937:059669&text=Hello!%20I%20am%20Aditya&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
 </td>
 <td width="25%" align="center">
