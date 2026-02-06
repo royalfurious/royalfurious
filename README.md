@@ -1,71 +1,63 @@
-Hi, I’m Aditya Dwivedi.
+<!-- Header -->
+<div align="center">
 
-Final-year Computer Science Engineering student focused on building reliable, real-world web applications.  
-I enjoy working across the stack — from clean frontend interfaces to secure backend APIs — and I care a lot about code structure and usability.
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e3c72,100:2a5298&height=160&section=header&text=Hello%20👋%20I'm%20Aditya%20Dwivedi&fontSize=32&fontColor=ffffff" />
 
----
-
-## Technical Skills
-
-**Programming Languages**  
-Java, C++
-
-**Frontend**  
-React.js, Angular, HTML5, CSS3, TypeScript, Tailwind CSS, Responsive Web Design
-
-**Backend**  
-Node.js, Express.js, REST APIs, JWT, bcrypt
-
-**Databases**  
-PostgreSQL, MongoDB, MySQL
-
-**Server & Deployment Basics**  
-Linux (filesystem & permissions), HTTP/HTTPS, CORS, environment variables  
-Deployment: Vercel, Firebase, Supabase
+</div>
 
 ---
 
-## Academic & Personal Projects
+## 👨‍💻 About Me
 
-### Village Hub — Civic Engagement Portal
-*Supabase, PostgreSQL, HTML, CSS, JavaScript*  
-- Built a full-stack civic grievance portal enabling rural users to submit, track, and filter local issues.  
-- Designed PostgreSQL schema with status-based filtering and keyword search for efficient issue triage.  
-- Implemented a responsive and accessible UI to ensure usability across devices.
+- Final-year **Computer Science Engineering** student  
+- Focused on building **real-world web applications**  
+- Strong interest in **frontend architecture** and **backend APIs**  
+- Gradually moving toward **full-stack engineering**  
 
----
-
-### Disaster Relief Platform
-*HTML, CSS, JavaScript, Firebase*  
-- Developed a disaster relief portal with authentication, alerts, and SOS features for rapid incident reporting.  
-- Integrated Firebase Authentication and realtime database for managing users and incidents.  
-- Designed mobile-first, accessible forms for quick reporting during emergencies.
+I prefer writing clean, readable code and understanding *why* things work, not just making them work.
 
 ---
 
-### SmartBite — Food Ordering Web Application
-*React.js, Node.js, Express.js, MongoDB, Stripe*  
-- Built a full-stack food ordering system with user and admin roles and complete order lifecycle management.  
-- Implemented secure authentication and authorization using JWT and bcrypt.  
-- Integrated Stripe payments and created admin dashboards for orders and inventory management.
+## 🧠 Technical Skills
+
+### Programming Languages
+`Java` `C++`
+
+### Frontend
+`React.js` `Angular` `HTML5` `CSS3` `TypeScript` `Tailwind CSS`  
+`Responsive Web Design`
+
+### Backend
+`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt`
+
+### Databases
+`PostgreSQL` `MongoDB` `MySQL`
+
+### Server & Deployment Basics
+`Linux` `HTTP/HTTPS` `CORS` `Environment Variables`  
+`Vercel` `Firebase` `Supabase`
 
 ---
 
-### Smart Travel Itinerary Planner
-*Angular, TypeScript, Node.js, Express.js, PostgreSQL, Socket.IO*  
-- Developed a collaborative travel planner supporting personalized itineraries.  
-- Enabled realtime chat and live collaboration using Socket.IO.  
-- Secured REST APIs with JWT-based authentication and role-based access control.
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=royalfurious&show_icons=true&hide_title=true" height="150" />
+
+</div>
 
 ---
 
-## Current Focus
-- Writing cleaner, more maintainable frontend code  
-- Improving backend API design and security  
-- Learning how scalable systems behave in real usage
+## 🔗 Connect With Me
 
----
-
-## Contact
 - LinkedIn: https://www.linkedin.com/in/aditya-dwivedi-04310322a  
 - Portfolio: https://portfolio-navy-nine-5e438hc4yo.vercel.app/
+
+---
+
+<div align="center">
+
+_Always learning. Always improving._
+
+</div>
