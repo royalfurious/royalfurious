@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="banner.png.png" width="100%" alt="Hello! I am Aditya"/>
+  <img src="banner.png" width="100%" alt="Hello! I am Aditya"/>
 </div>
 
 <br/>
@@ -124,15 +124,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royalfurious&theme=github_dark" width="98%" alt="Profile Details"/>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profile Details"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=royalfurious&theme=github_dark" width="32%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royalfurious&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=royalfurious&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="32%" alt="Stats"/>
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" alt="Top Languages by Repo"/>
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
 </div>
 
 <br/>
