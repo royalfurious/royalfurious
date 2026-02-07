@@ -154,6 +154,10 @@
 
 <br/><br/>
 
+<a href="https://www.buymeacoffee.com/royalfurious" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" /></a>
+
+<br/><br/>
+
 ### 💭 *"Always learning. Always improving."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
