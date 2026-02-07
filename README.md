@@ -124,15 +124,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royalfurious&theme=github_dark" width="98%" alt="Profile Details"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="32%" alt="Stats"/>
-  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" alt="Top Languages by Repo"/>
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=royalfurious&theme=github_dark" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royalfurious&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=royalfurious&theme=github_dark" width="32%" alt="Most Commit Language"/>
 </div>
 
 <br/>
