@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 👨‍💻 Software Developer at Cinkod Technology
+- 👨‍💻 Software Developer at Cinkod Technologies pvt ltd
 - 💻 Focused on building **real-world web applications**
 - 🏗️ Strong interest in **frontend architecture** and **backend APIs**
 - 🚀 Gradually moving toward **full-stack engineering**
