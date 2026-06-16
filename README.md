@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🎓 Final-year **Computer Science Engineering** student
+-  Software Developer at Cinkod Technology
 - 💻 Focused on building **real-world web applications**
 - 🏗️ Strong interest in **frontend architecture** and **backend APIs**
 - 🚀 Gradually moving toward **full-stack engineering**
